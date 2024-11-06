@@ -1,0 +1,51 @@
+﻿@model Lr10.Models.ConsultationForm
+@{
+    ViewData["Title"] = "Реєстрація на консультацію";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@if (ViewBag.SuccessMessage != null)
+{
+    <div style="color: green;">
+        <p>@ViewBag.SuccessMessage</p>
+    </div>
+}
+
+<form asp-action="Index" method="post">
+    <div>
+        <label for="FullName">Ім'я прізвище:</label>
+        <input asp-for="FullName" />
+        <span asp-validation-for="FullName" style="color: red;"></span>
+    </div>
+
+    <div>
+        <label for="Email">Email:</label>
+        <input asp-for="Email" />
+        <span asp-validation-for="Email" style="color: red;"></span>
+    </div>
+
+    <div>
+        <label for="ConsultationDate">Бажана дата консультації:</label>
+        <input asp-for="ConsultationDate" type="date" />
+        <span asp-validation-for="ConsultationDate" style="color: red;"></span>
+    </div>
+
+    <div>
+        <label for="Product">Продукт для консультації:</label>
+        <select asp-for="Product">
+            <option value="">-- Виберіть продукт --</option>
+            @foreach (var product in ViewBag.Products as string[])
+            {
+                <option value="@product">@product</option>
+            }
+        </select>
+        <span asp-validation-for="Product" style="color: red;"></span>
+    </div>
+
+    <button type="submit">Зареєструватися</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

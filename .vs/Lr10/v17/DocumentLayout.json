@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maksk\\source\\repos\\Lr10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0874D17-0344-4D4E-AE3D-6B65316B46DE}|Lr10.csproj|c:\\users\\maksk\\source\\repos\\lr10\\views\\consultation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0874D17-0344-4D4E-AE3D-6B65316B46DE}|Lr10.csproj|solutionrelative:views\\consultation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0874D17-0344-4D4E-AE3D-6B65316B46DE}|Lr10.csproj|c:\\users\\maksk\\source\\repos\\lr10\\services\\consultationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0874D17-0344-4D4E-AE3D-6B65316B46DE}|Lr10.csproj|solutionrelative:services\\consultationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0874D17-0344-4D4E-AE3D-6B65316B46DE}|Lr10.csproj|c:\\users\\maksk\\source\\repos\\lr10\\models\\consultationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0874D17-0344-4D4E-AE3D-6B65316B46DE}|Lr10.csproj|solutionrelative:models\\consultationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0874D17-0344-4D4E-AE3D-6B65316B46DE}|Lr10.csproj|c:\\users\\maksk\\source\\repos\\lr10\\controllers\\consultationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0874D17-0344-4D4E-AE3D-6B65316B46DE}|Lr10.csproj|solutionrelative:controllers\\consultationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0874D17-0344-4D4E-AE3D-6B65316B46DE}|Lr10.csproj|c:\\users\\maksk\\source\\repos\\lr10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0874D17-0344-4D4E-AE3D-6B65316B46DE}|Lr10.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0874D17-0344-4D4E-AE3D-6B65316B46DE}|Lr10.csproj|c:\\users\\maksk\\source\\repos\\lr10\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0874D17-0344-4D4E-AE3D-6B65316B46DE}|Lr10.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsultationService.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr10\\Services\\ConsultationService.cs",
+              "RelativeDocumentMoniker": "Services\\ConsultationService.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr10\\Services\\ConsultationService.cs",
+              "RelativeToolTip": "Services\\ConsultationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:41:16.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr10\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr10\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:26:10.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr10\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr10\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:53:29.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr10\\Views\\Consultation\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Consultation\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr10\\Views\\Consultation\\Index.cshtml",
+              "RelativeToolTip": "Views\\Consultation\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T13:50:56.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsultationController.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr10\\Controllers\\ConsultationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConsultationController.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr10\\Controllers\\ConsultationController.cs",
+              "RelativeToolTip": "Controllers\\ConsultationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:50:09.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsultationForm.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr10\\Models\\ConsultationForm.cs",
+              "RelativeDocumentMoniker": "Models\\ConsultationForm.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr10\\Models\\ConsultationForm.cs",
+              "RelativeToolTip": "Models\\ConsultationForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:49:29.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
